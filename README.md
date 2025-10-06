@@ -12,9 +12,9 @@ Each folder contains organized materials for the corresponding course.
 ---------
 
 # 💻 Programming Languages
--Python
--Matlab
--C++
+.Python
+.Matlab
+.C++
 
 -------
 
